@@ -28,102 +28,46 @@
     "text": "Describe the data\nUsing a combination of words and results of R commands, can you provide a high level description of the data? Describe as efficiently as possible where/how the data was (likely) gathered, indicate the cases and variables (both the interpretation and any details you deem useful to the reader to fully understand your chosen data)."
   },
   {
-    "objectID": "about/AboutMRolfe.html",
-    "href": "about/AboutMRolfe.html",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html",
+    "href": "about/ProfRolfe.html",
+    "title": "Meredith Rolfe",
     "section": "",
-    "text": "##Instructions"
+    "text": "Associate Professor, Political Science | UMass Amherst Lecturer in Public Management | London School of Economics Nuffield Posdoctoral Prize Fellow | Oxford University\nPhD, Political Science | University of Chicago BA, Comparative Area Studies | Duke University"
   },
   {
-    "objectID": "about/AboutMRolfe.html#educationwork-background",
-    "href": "about/AboutMRolfe.html#educationwork-background",
-    "title": "Your Name",
-    "section": "Education/Work Background",
-    "text": "Education/Work Background"
-  },
-  {
-    "objectID": "about/AboutMRolfe.html#r-experience",
-    "href": "about/AboutMRolfe.html#r-experience",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html#r-experience",
+    "href": "about/ProfRolfe.html#r-experience",
+    "title": "Meredith Rolfe",
     "section": "R experience",
-    "text": "R experience"
+    "text": "R experience\nI was using R before it was cool (and when it was still called S…)"
   },
   {
-    "objectID": "about/AboutMRolfe.html#research-interests",
-    "href": "about/AboutMRolfe.html#research-interests",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html#research-interests",
+    "href": "about/ProfRolfe.html#research-interests",
+    "title": "Meredith Rolfe",
     "section": "Research interests",
-    "text": "Research interests"
+    "text": "Research interests\nTheories that combine social interaction and cognitive micro-foundations; innovative applications of methods of any sort (networks, text, simulations, experiments, surveys…)"
   },
   {
-    "objectID": "about/AboutMRolfe.html#hometown",
-    "href": "about/AboutMRolfe.html#hometown",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html#hometown",
+    "href": "about/ProfRolfe.html#hometown",
+    "title": "Meredith Rolfe",
     "section": "Hometown",
-    "text": "Hometown"
+    "text": "Hometown\nCharlotte, NC"
   },
   {
-    "objectID": "about/AboutMRolfe.html#hobbies",
-    "href": "about/AboutMRolfe.html#hobbies",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html#hobbies",
+    "href": "about/ProfRolfe.html#hobbies",
+    "title": "Meredith Rolfe",
     "section": "Hobbies",
-    "text": "Hobbies"
+    "text": "Hobbies\num, DACSS???"
   },
   {
-    "objectID": "about/AboutMRolfe.html#fun-fact",
-    "href": "about/AboutMRolfe.html#fun-fact",
-    "title": "Your Name",
+    "objectID": "about/ProfRolfe.html#fun-fact",
+    "href": "about/ProfRolfe.html#fun-fact",
+    "title": "Meredith Rolfe",
     "section": "Fun fact",
-    "text": "Fun fact"
-  },
-  {
-    "objectID": "about/about.html",
-    "href": "about/about.html",
-    "title": "Your Name",
-    "section": "",
-    "text": "##Instructions"
-  },
-  {
-    "objectID": "about/about.html#educationwork-background",
-    "href": "about/about.html#educationwork-background",
-    "title": "Your Name",
-    "section": "Education/Work Background",
-    "text": "Education/Work Background"
-  },
-  {
-    "objectID": "about/about.html#r-experience",
-    "href": "about/about.html#r-experience",
-    "title": "Your Name",
-    "section": "R experience",
-    "text": "R experience"
-  },
-  {
-    "objectID": "about/about.html#research-interests",
-    "href": "about/about.html#research-interests",
-    "title": "Your Name",
-    "section": "Research interests",
-    "text": "Research interests"
-  },
-  {
-    "objectID": "about/about.html#hometown",
-    "href": "about/about.html#hometown",
-    "title": "Your Name",
-    "section": "Hometown",
-    "text": "Hometown"
-  },
-  {
-    "objectID": "about/about.html#hobbies",
-    "href": "about/about.html#hobbies",
-    "title": "Your Name",
-    "section": "Hobbies",
-    "text": "Hobbies"
-  },
-  {
-    "objectID": "about/about.html#fun-fact",
-    "href": "about/about.html#fun-fact",
-    "title": "Your Name",
-    "section": "Fun fact",
-    "text": "Fun fact"
+    "text": "Fun fact\ncoffee is my favorite food"
   },
   {
     "objectID": "index.html",
@@ -137,6 +81,6 @@
     "href": "about.html",
     "title": "Contributors",
     "section": "",
-    "text": "Your Name\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour Name\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Meredith Rolfe\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
