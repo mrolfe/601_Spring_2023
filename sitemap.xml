@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mrolfe.github.io/601_Spring_2023/posts/challenge2_instructions.html</loc>
-    <lastmod>2023-02-17T23:30:31.530Z</lastmod>
+    <loc>https://github.com/DACSS/posts/challenge1_solutions.html</loc>
+    <lastmod>2023-02-22T23:57:00.919Z</lastmod>
   </url>
   <url>
-    <loc>https://mrolfe.github.io/601_Spring_2023/posts/challenge1_instructions.html</loc>
-    <lastmod>2023-02-17T23:30:33.469Z</lastmod>
+    <loc>https://github.com/DACSS/posts/challenge2_instructions.html</loc>
+    <lastmod>2023-02-22T23:57:02.052Z</lastmod>
   </url>
   <url>
-    <loc>https://mrolfe.github.io/601_Spring_2023/about/ProfRolfe.html</loc>
-    <lastmod>2023-02-17T23:30:35.652Z</lastmod>
+    <loc>https://github.com/DACSS/posts/challenge1_instructions.html</loc>
+    <lastmod>2023-02-22T23:57:03.058Z</lastmod>
   </url>
   <url>
-    <loc>https://mrolfe.github.io/601_Spring_2023/index.html</loc>
-    <lastmod>2023-02-17T23:30:36.068Z</lastmod>
+    <loc>https://github.com/DACSS/about/ProfRolfe.html</loc>
+    <lastmod>2023-02-22T23:57:04.534Z</lastmod>
   </url>
   <url>
-    <loc>https://mrolfe.github.io/601_Spring_2023/about.html</loc>
-    <lastmod>2023-02-17T23:30:36.396Z</lastmod>
+    <loc>https://github.com/DACSS/index.html</loc>
+    <lastmod>2023-02-22T23:57:05.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/about.html</loc>
+    <lastmod>2023-02-22T23:57:05.675Z</lastmod>
   </url>
 </urlset>
